@@ -6,13 +6,13 @@ Este repositório faz parte do Projeto de Prova de Aptidão Profissional (PAP) d
 
 ## Sobre a PAP Netsafeguard
 
-O Netsafeguard está a ser desenvolvida como parte de um Projeto de Prova de Aptidão Profissional (PAP), uma iniciativa educacional em Portugal que permite aos estudantes adquirirem experiência prática em um ambiente de trabalho real. Acredito na importância de fornecer aos alunos a oportunidade de aplicar seus conhecimentos teóricos em um contexto prático.
+O Netsafeguard está a ser desenvolvida como parte de um Projeto de Prova de Aptidão Profissional (PAP), uma iniciativa educacional em Portugal que permite as escolas terem um controle e segurança nos exames online.
 
-## Objetivos do PAP
+## Objetivos do projeto PAP
 
-- Proporcionar a todos a chance de ganhar experiência prática em segurança cibernética e desenvolvimento de software.
-- Aplicar conhecimentos teóricos em um ambiente de projeto real.
-- Contribuir para o desenvolvimento da comunidade de código aberto e aprimorar nossos projetos.
+- Portal de Administração: onde é possivel criar/gerenciar eventos.
+- Portal do Aluno: onde é possivel ingressar em um evento,
+- Contribuir para o desenvolvimento da comunidade de código aberto e trazer segurança nos exames online.
 
 ## Como Contribuir
 
