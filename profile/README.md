@@ -1,7 +1,5 @@
 # Bem-vindo ao Repositório Netsafeguard! 👋
 
-<img src="https://github.com/NetSafeGuard/NetSafeGuard/assets/75593113/6246054b-edad-4ef9-b427-9e841a83bb2a">
-
 Este repositório faz parte do Projeto de Prova de Aptidão Profissional (PAP) da Netsafeguard, onde pretendemos desenvolver soluções de segurança.
 
 ## Sobre a PAP Netsafeguard
